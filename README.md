@@ -6,6 +6,7 @@ I am an active student in organizations. \
 I have created several websites as an assignment for a course, including the e-commerce website Snacki and HI-KOST using the Laravel framework and using Mysql as a database. \
 I have studied Machine Learning using Python and Tensorflow framework. \
 I graduated from “Bangkit Academy” with a capstone project, namely “SAHABAT BELAJAR” a chatbot using Tensorflow.\
+I am also a graduate from "MSIB Dicoding" with "Machine Learning and Front End" path with the capstone project of making [YourSkin](http://yourskin.herokuapp.com/) website which detects skin diseases on human faces. \
 This is my [LinkedIn](https://www.linkedin.com/in/hilmihermawan/)
 
 <p align="left">
