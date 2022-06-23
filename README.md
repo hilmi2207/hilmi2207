@@ -1,7 +1,7 @@
 Hello...
 ==
 My name is **Hilmi Hermawan**.\
-I interest in Data Science, Data Analyst, and Data Engineering.
+I interest in Data Science, Data Analyst, and Data Engineering. \
 I am an final year student at informatics engineering from University of Lampung with a last GPA of 3.85.\
 I am an active student in organizations. \
 I have created several websites as an assignment for a course, including the e-commerce website Snacki and HI-KOST using the Laravel framework and using Mysql as a database. \
